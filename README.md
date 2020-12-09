@@ -12,6 +12,7 @@ Author: Maciej Izydorek Email: G00387873@gmit.ie Github: [mizydorek](https://git
 *Four tasks will be listed here at different times during the semester. You should complete all tasks in a single jupyter notebook. This, along with relevant files like a README, should be in a single git repository synced with a hosting provider like GitHub [1]. That URL should then be submitted using the link on the Moodle page.*
 
 1. Count function
+*Write a Python function called counts that takes a list as inputandreturnsadictionaryofuniqueitemsinthelistaskeysandthenumberof times each item appears as values. So, the input ['A', 'A', 'B', 'C', 'A'] should have output {'A': 3, 'B': 1, 'C': 1}. Your code should not depend on any module from the standard library1 or otherwise. You should research the task ﬁrst and include a description with references of your algorithm in the notebook.*
 2. Dice rolls
 3. Numpy binomial function
 4. Simpson’s paradox
